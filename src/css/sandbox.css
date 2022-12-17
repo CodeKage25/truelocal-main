@@ -1,0 +1,18 @@
+.sandbox {
+   max-width: 67rem;
+   margin-left: auto;
+   margin-right: auto;
+ }
+ .sandbox__carousel {
+   background-color: var(--background-code);
+ }
+ .sandbox__carousel {
+   position: relative;
+ }
+ @media (min-width: 750px) {
+   .sandbox__carousel {
+     border-radius: 0.4rem;
+   }
+ }
+
+ 
